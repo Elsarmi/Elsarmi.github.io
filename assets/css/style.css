@@ -50,21 +50,21 @@ body {
 }
 
 .header-btn {
-    background-color: #0ABCEB;
+    background-color: #fff942;
     border-radius: 10px;
-    border: #0ABCEB;
+    border: #c3ce5d;
     float: right;
     width: 195px;
     height: 51px;
-    color: white;
+    color: black;
     -webkit-transition-duration: 0.4s;
     transition-duration: 0.4s;
     margin-top: -10px;
 }
 
 .header-btn:hover {
-    background-color: #58d5f7;
-    color: white;
+    background-color: #dddb70;
+    color: black;
     border-radius: 20px;
     -webkit-box-shadow: -1px 9px 46px -17px rgba(43, 43, 43, 1);
     -moz-box-shadow: -1px 9px 46px -17px rgba(43, 43, 43, 1);
@@ -114,18 +114,18 @@ body {
 .hero-btn {
     -webkit-transition-duration: 0.4s;
     transition-duration: 0.4s;
-    background-color: #472387;
+    background-color: #fff942;
     border-radius: 10px;
-    border: 1px solid #9969C7;
+    border: 1px solid #c3ce5d;
     width: 210px;
     height: 51px;
-    color: white;
+    color: black;
     margin: 30px auto;
 }
 
 .hero-btn:hover {
-    background-color: #9969C7;
-    color: white;
+    background-color: #dddb70;
+    color: black;
     border-radius: 20px;
     -webkit-box-shadow: -1px 9px 46px -17px rgba(43, 43, 43, 1);
     -moz-box-shadow: -1px 9px 46px -17px rgba(43, 43, 43, 1);
