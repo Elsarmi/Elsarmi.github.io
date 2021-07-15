@@ -21,10 +21,10 @@ body {
 .hero-background {
     overflow: hidden;
     position: relative;
-    background: -webkit-linear-gradient(117deg, rgb(96, 87, 246), rgb(216, 71, 99));
-    background: linear-gradient(117deg, rgb(96, 87, 246), rgb(216, 71, 99));
-    background: -webkit-radial-gradient(rgb(194, 74, 126), rgb(105, 86, 235));
-    background: radial-gradient(rgb(194, 74, 126), rgb(105, 86, 235));
+    background: -webkit-linear-gradient(117deg, rgb(180, 177, 6), rgb(61, 40, 44));
+    background: linear-gradient(117deg, rgb(131, 139, 39), rgb(58, 7, 17));
+    background: -webkit-radial-gradient(rgb(170, 160, 15), rgb(70, 70, 107));
+    background: radial-gradient(rgb(139, 141, 27), rgb(58, 58, 65));
 }
 
 .bold {
@@ -99,7 +99,7 @@ body {
 }
 
 .hero-right {
-    color: #fff;
+    color: #000;
     text-align: center;
 }
 
@@ -241,9 +241,6 @@ body {
 
 .white-section-text {
     text-align: center;
-}
-
-.imac {
 }
 
 .imac-section-header {
@@ -493,7 +490,7 @@ ul {
 }
 
 .footer {
-    background-color: #472387;
+    background-color: #000;
     padding-top: 20px;
     padding-bottom: 20px;
 }
